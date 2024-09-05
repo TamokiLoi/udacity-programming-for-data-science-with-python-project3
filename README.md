@@ -75,4 +75,3 @@ This project was inspired by the Bikeshare project from the Udacity Data Analyst
 - [Udacity's Data Analyst Nanodegree GitHub Repository](https://github.com/udacity/pdsnd_github)
 - [Pandas Documentation](https://pandas.pydata.org/pandas-docs/stable/)
 - [Python Documentation](https://docs.python.org/3/)
-
