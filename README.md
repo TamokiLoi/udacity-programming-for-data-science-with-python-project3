@@ -10,7 +10,7 @@ Bikeshare Data Analysis
 This project involves analyzing bikeshare data from various cities to gain insights into travel patterns. The analysis is performed using a Python script that processes and visualizes data from CSV files containing bikeshare trip information.
 
 ### Files used
-#### CSV Files
+<!-- #### CSV Files -->
 #### `chicago.csv`
 - **Description:** Contains bikeshare trip data for Chicago.
 - **Columns:**
