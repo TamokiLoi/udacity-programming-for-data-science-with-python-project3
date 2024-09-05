@@ -11,7 +11,6 @@ This project involves analyzing bikeshare data from various cities to gain insig
 
 ### Files used
 #### CSV Files
-
 #### `chicago.csv`
 - **Description:** Contains bikeshare trip data for Chicago.
 - **Columns:**
